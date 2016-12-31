@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "lineBOT-executor",
+    "name": "lineBOT",
+    "region": "us-west-2"
+  }
+}
